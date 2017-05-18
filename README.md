@@ -23,8 +23,4 @@ Special class Variables:
   a. row = appointment time, column = days
   b. Doctor class takes objects of the Schedule class , so each doctor has his/her Schedule
   
-[ Patient Class ]
-1. Nothing special very basic open for improving on the following adding 
-[patient symptoms, patient emergency contact, ect]
-
 
